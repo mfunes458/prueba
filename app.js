@@ -5,3 +5,6 @@ class persona={
         this.edad=edad;
     }
 }
+
+
+hola
